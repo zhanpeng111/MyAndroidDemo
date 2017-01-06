@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\zhanpeng\android\MyAndroidDemo\MPChartExample\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8818488fe4c6351e227fde916ebc60ed23fd5b4e">
+        <dex dex="E:\zhanpeng\android\MyAndroidDemo\MPChartExample\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_4af2764e24465ff5a768c1dde2e67c2b886e920a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\worktool\sdk\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="E:\zhanpeng\android\MyAndroidDemo\MPChartExample\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_cda1f9a994201fb4478cd2e2f45097d03ac0a897\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\zhanpeng\android\MyAndroidDemo\MPChartExample\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="E:\zhanpeng\android\MyAndroidDemo\MPChartExample\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_0731efdf26cfbea6e41ba3293863927b5adb3c58\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\zhanpeng\android\MyAndroidDemo\MPChartExample\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="E:\zhanpeng\android\MyAndroidDemo\MPChartExample\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_9135dee7b103dcaac55e299c81080d054f7a6a11\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\zhanpeng\android\MyAndroidDemo\MPChartExample\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="E:\zhanpeng\android\MyAndroidDemo\MPChartExample\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_3b725da1a182b52364e67bd559f8bbc81a42101b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\zhanpeng\android\MyAndroidDemo\MPChartExample\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="E:\zhanpeng\android\MyAndroidDemo\MPChartExample\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_218a709387152660d7dc31461c98ac03f2429f8f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\zhanpeng\android\MyAndroidDemo\MPChartExample\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\zhanpeng\android\MyAndroidDemo\MPChartExample\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_c96816cf877c2cd67bc0346f2ddf4a22ffb14e26\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\zhanpeng\android\MyAndroidDemo\MPChartExample\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="E:\zhanpeng\android\MyAndroidDemo\MPChartExample\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_4599145456fd1c28a994deddc5f0f0c95079ec28\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\zhanpeng\android\MyAndroidDemo\MPChartExample\build\intermediates\exploded-aar\com.github.PhilJay\MPAndroidChart-Realm\v2.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4591ef46473196a30637ed034018002a462e40ba">
+        <dex dex="E:\zhanpeng\android\MyAndroidDemo\MPChartExample\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.PhilJay-MPAndroidChart-Realm-v2.0.2_c8d4cd7cc43f375c560b33a7c183cc0211a2b7ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\zhanpeng\android\MyAndroidDemo\MPChartExample\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="E:\zhanpeng\android\MyAndroidDemo\MPChartExample\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_8bd2edf65451236140ca157a1aae59c42969d994\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\io.realm\realm-annotations\2.0.2\e97f64258ef6d0daeb26b3b88988215e0b14d9b2\realm-annotations-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e97f64258ef6d0daeb26b3b88988215e0b14d9b2">
+        <dex dex="E:\zhanpeng\android\MyAndroidDemo\MPChartExample\build\intermediates\transforms\dex\debug\folders\1000\10\realm-annotations-2.0.2_2593ecce20622d842ef4073b6c8eac396734ad35\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\zhanpeng\android\MyAndroidDemo\MPChartExample\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="E:\zhanpeng\android\MyAndroidDemo\MPChartExample\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_6f88285a64614a8fc9d3fcfe5f82874c08040ee7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\zhanpeng\android\MyAndroidDemo\MPChartExample\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e270556963d51444c363df6b62b5ec37e35326b7">
+        <dex dex="E:\zhanpeng\android\MyAndroidDemo\MPChartExample\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_1aa907f8fe42d03bf5cff0392b3af4fdb48dde88\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\zhanpeng\android\MyAndroidDemo\MPChartExample\build\intermediates\exploded-aar\io.realm\realm-android-library\2.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="716030a2499afe39ca5b9c8bc09bc868ca372206">
+        <dex dex="E:\zhanpeng\android\MyAndroidDemo\MPChartExample\build\intermediates\transforms\dex\debug\folders\1000\10\io.realm-realm-android-library-2.0.2_b48546616927afd01b0b20dc8fbf60e358165e38\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\zhanpeng\android\MyAndroidDemo\MPChartExample\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="E:\zhanpeng\android\MyAndroidDemo\MPChartExample\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_bb66f3d702ed46597992686514bf119ac883aa16\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\zhanpeng\android\MyAndroidDemo\MPChartExample\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="E:\zhanpeng\android\MyAndroidDemo\MPChartExample\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_216cb5ede1bb3beca6765fea4739eb7abebc1c3f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\zhanpeng\android\MyAndroidDemo\MPChartExample\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="E:\zhanpeng\android\MyAndroidDemo\MPChartExample\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_17575fd1a71d5a5c47afe1e360f4ceb9fcf59f95\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\zhanpeng\android\MyAndroidDemo\MPChartExample\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="E:\zhanpeng\android\MyAndroidDemo\MPChartExample\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_ff3a3d0ff2619e01dbdb04a0c1a78b469f3cb63b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\zhanpeng\android\MyAndroidDemo\MPChartExample\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="E:\zhanpeng\android\MyAndroidDemo\MPChartExample\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_b85362988eab463dceaa551127bcaf0b29a0da19\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\zhanpeng\android\MyAndroidDemo\MPChartExample\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="E:\zhanpeng\android\MyAndroidDemo\MPChartExample\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_63bdb393bfa5ddf4f6bf1f63cf2428dd5fe15219\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\zhanpeng\android\MyAndroidDemo\MPChartExample\build\intermediates\exploded-aar\com.getkeepsafe.relinker\relinker\1.2.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b64dd5f01bc37de289f90fd59299b0c76d119611">
+        <dex dex="E:\zhanpeng\android\MyAndroidDemo\MPChartExample\build\intermediates\transforms\dex\debug\folders\1000\10\com.getkeepsafe.relinker-relinker-1.2.2_b54e31ddd4b8c0ee7c4c862e4dec4940c080c005\classes.dex" />
+    </item>
+
+</items>
