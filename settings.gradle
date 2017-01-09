@@ -1,1 +1,1 @@
-include  ':MPChartLib', ':MPChartExample'
+include ':MPChartLib', ':MPChartExample', ':DragLayoutDemo', ':TransitionsAnimation', ':SlidingDeck', ':SlidingDeckDemo'

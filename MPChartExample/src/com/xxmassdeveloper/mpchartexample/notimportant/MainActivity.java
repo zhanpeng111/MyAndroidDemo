@@ -128,7 +128,7 @@ public class MainActivity extends Activity implements OnItemClickListener {
                 "Chart in ScrollView",
                 "This demonstrates how to use a chart inside a ScrollView."));
         objects.add(new ContentItem(
-                "BarChart positive / negative",
+                "正负值的柱状图",
                 "This demonstrates how to create a BarChart with positive and negative values in different colors."));
 
         ContentItem realm = new ContentItem(

@@ -23,7 +23,9 @@ import com.xxmassdeveloper.mpchartexample.notimportant.DemoBase;
 import java.text.DecimalFormat;
 import java.util.ArrayList;
 import java.util.List;
-
+/*
+ 带有正负值的柱状图
+* */
 public class BarChartPositiveNegative extends DemoBase {
 
     protected BarChart mChart;

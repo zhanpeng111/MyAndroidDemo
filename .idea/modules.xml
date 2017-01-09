@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/DragLayoutDemo/DragLayoutDemo.iml" filepath="$PROJECT_DIR$/DragLayoutDemo/DragLayoutDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/MPChartExample/MPChartExample.iml" filepath="$PROJECT_DIR$/MPChartExample/MPChartExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/MPChartLib/MPChartLib.iml" filepath="$PROJECT_DIR$/MPChartLib/MPChartLib.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyAndroidDemo.iml" filepath="$PROJECT_DIR$/MyAndroidDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SlidingDeck/SlidingDeck.iml" filepath="$PROJECT_DIR$/SlidingDeck/SlidingDeck.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SlidingDeckDemo/SlidingDeckDemo.iml" filepath="$PROJECT_DIR$/SlidingDeckDemo/SlidingDeckDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TransitionsAnimation/TransitionsAnimation.iml" filepath="$PROJECT_DIR$/TransitionsAnimation/TransitionsAnimation.iml" />
     </modules>
   </component>
 </project>

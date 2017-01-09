@@ -8,8 +8,12 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/DragLayoutDemo" />
             <option value="$PROJECT_DIR$/MPChartExample" />
             <option value="$PROJECT_DIR$/MPChartLib" />
+            <option value="$PROJECT_DIR$/SlidingDeck" />
+            <option value="$PROJECT_DIR$/SlidingDeckDemo" />
+            <option value="$PROJECT_DIR$/TransitionsAnimation" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
