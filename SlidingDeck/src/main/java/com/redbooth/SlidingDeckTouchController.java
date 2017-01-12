@@ -29,7 +29,7 @@ import android.view.VelocityTracker;
 
 class SlidingDeckTouchController {
     private static final int NO_VIEW = -1;
-    private static final int SNAP_VELOCITY = 5000;
+    private static final int SNAP_VELOCITY = 3000;//原值5000 此处改为3000 更符合人性
     private static final int VELOCITY_UNITS = 1000;
     private static final int INITIAL_POSITION = 0;
     private static final int INITIAL_OFFSET = 0;

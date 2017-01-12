@@ -54,7 +54,7 @@ public class SlidingDeck extends ViewGroup {
     private final static int FIRST_VIEW = 0;
     private final static float INITIAL_ALPHA_FOR_LATEST_ITEM = 0.20f;
     private final static float MAXIMUM_OFFSET_TOP_BOTTOM_FACTOR = 0.75f;
-    private final static float MAXIMUM_OFFSET_LEFT_RIGHT_FACTOR = 0.4f;
+    private final static float MAXIMUM_OFFSET_LEFT_RIGHT_FACTOR = 0.7f;//原值0.4f
     private final static int MAXIMUM_ITEMS_ON_SCREEN = 5;
     private final static int ITEMS_TOP_MARGIN_DP = 8;
     private final static int ITEMS_LEFT_RIGHT_MARGIN_DP = 8;
@@ -555,6 +555,7 @@ public class SlidingDeck extends ViewGroup {
 
                 @Override
                 public void onAnimationEnd(Animator animation) {
+                    /*获得子元素view 开始动画*/
                     final View item = getChildAt(viewIndex);
                     if (listener != null) {
                         listener.onSwipe(SlidingDeck.this, item);
